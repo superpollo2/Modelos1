@@ -25,6 +25,9 @@ El objetivo principal de este proyecto es desarrollar un modelo de clasificació
 
 - **Entrega 2**: <a href="" target="_blank"></a>
 
+## Archivos de apoyo
+Reporte usando ProfileReport, puesto que no se ve en el archivo de colab subido a este repositorio
+https://github.com/superpollo2/Modelos1/blob/main/eda_report_02.html
 
 
 
