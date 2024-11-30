@@ -24,6 +24,8 @@ El objetivo principal de este proyecto es desarrollar un modelo de clasificació
 ## Videos de Entrega
 
 - **Entrega 2**: <a href="https://www.youtube.com/watch?v=QAFXO3uYAes" target="_blank">https://www.youtube.com/watch?v=QAFXO3uYAes</a>
+- **Entrega final**: <a href="https://www.youtube.com/watch?v=VEWYo0DzN6U" target="_blank">https://www.youtube.com/watch?v=VEWYo0DzN6U</a>
+
 
 ## Archivos de apoyo
 Reporte usando ProfileReport, puesto que no se ve en el archivo de colab subido a este repositorio
